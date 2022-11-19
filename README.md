@@ -33,8 +33,9 @@
 <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> </p>
 
  
-<p>&nbsp;<img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=merttyilmaz&show_icons=true&locale=en&theme=dark" alt="merttyilmaz" /></p>
-  
+<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=merttyilmaz&show_icons=true&locale=en&theme=dark" alt="merttyilmaz" /></p>
+
+<p> <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=merttyilmaz&theme=dark" alt="merttyilmaz" /></p>
+
 <p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=merttyilmaz&show_icons=true&locale=en&layout=compact&theme=dark" alt="merttyilmaz" /></p>
 
-<p><img align="center"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=merttyilmaz&theme=dark" alt="merttyilmaz" /></p>
